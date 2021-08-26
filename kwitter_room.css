@@ -1,0 +1,16 @@
+body{
+    background-image: url(bg.jpg);
+}
+#logout{
+    float: right;
+    width: 235px;
+    height: 135px;
+}
+#d{
+	float: center;
+    width: 555px;
+	height: 165px;
+}
+#output{
+    float: center;
+}

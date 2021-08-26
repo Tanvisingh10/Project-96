@@ -1,0 +1,9 @@
+body{
+    background-image: url(sp.jpg);
+    border-style: solid;
+	border-width: 15px;
+	border-color: white;
+}
+#div{
+    position: sticky;
+}

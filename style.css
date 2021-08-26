@@ -1,0 +1,24 @@
+body{
+	background-image: url(ima.jpg);
+	border-style: solid;
+	border-width: 15px;
+	border-color: black;
+}
+#a{
+	margin-left: 150px;
+	margin-right: 535px;
+	margin-top: 200px;
+	background-color: black;
+	width: 925px;
+	height: 500px;
+    border-style: solid;
+    border-color: darkorange;
+    border-radius: 25px;
+    border-width: 15px;
+}
+#b{
+	width: 555px;
+    height: 125px;
+	font-size: 55px;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
